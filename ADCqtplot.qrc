@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icono/adc.ico</file>
+        <file>icono/ADC.png</file>
+    </qresource>
+</RCC>
